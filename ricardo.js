@@ -3,7 +3,7 @@ let num1 = parseInt(prompt("¿A partir de qué número debes iniciar a escribir?
 let num2 = parseInt(prompt("¿Hasta qué número debes llegar?"));
 
 	while (num1 <= num2) {
-		alert (num1)
+		alert (num1);
 		num1 = num1+1;
 	}
 
